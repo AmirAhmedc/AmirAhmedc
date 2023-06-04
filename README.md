@@ -17,6 +17,8 @@ I am a Full stack developer
 - **Backend Development** :white_check_mark:
 	- php oop mvc (laravel) 
 	- Database (sql - mysql) 
+	- Version control: git (github - gitlab)
+	- OS: linux 
 - **Problem Solving with :** :white_check_mark:
 	- Python 
 	- Java
