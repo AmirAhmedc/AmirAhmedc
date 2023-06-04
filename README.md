@@ -8,17 +8,16 @@
 I am a Full stack developer
 
 ## Technical Skills :
-- **Frontend Development**
-	- HTML5, CSS3 and Javascript :white_check_mark:
-	- Bootstrap :white_check_mark:
-	- jQuery :white_check_mark:
-	- Ajax :white_check_mark:
-	- vue.js :white_check_mark:
-- **Backend Development**
-	- php oop mvc (laravel) :white_check_mark:
-	- Database (sql - mysql) :white_check_mark:
-	- Some Java
-- **Problem Solving with :**
+- **Frontend Development** :white_check_mark:
+	- HTML5, CSS3 and Javascript 
+	- Bootstrap 
+	- jQuery 
+	- Ajax 
+	- vue.js 
+- **Backend Development** :white_check_mark:
+	- php oop mvc (laravel) 
+	- Database (sql - mysql) 
+- **Problem Solving with :** :white_check_mark:
 	- Python 
 	- Java
 	- C++ 
